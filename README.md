@@ -1,2 +1,2 @@
 # POS-Single
-POS Single Version
+POS Single
